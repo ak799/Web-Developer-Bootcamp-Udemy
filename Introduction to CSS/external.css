@@ -1,0 +1,12 @@
+h1{
+	color: red;
+}
+h4{
+	color: green;
+}
+li{
+	color: blue;
+}
+/*red,green,blue=#FF0000 max=15(F);
+rgb(0,255,0); max=255
+rgba(11,99,150,1);a=alpha(0-1)transparent*/
