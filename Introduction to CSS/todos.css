@@ -1,0 +1,12 @@
+li{
+	border: 2px solid red;
+}
+
+#special{
+	background: yellow;
+}
+/*for selection of id we use #*/
+/* for selection of class we use .*/
+.completed{
+	text-decoration: line-through;
+}
